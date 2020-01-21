@@ -9,4 +9,5 @@
 ## How to use the mobile application:
 ### -Click random button to generate a random quote
 
+## Demonstration of the application
 ![alt text](https://github.com/tnguyen496/QuoteApplication/blob/master/app/src/main/res/drawable/DemoPic.png)
