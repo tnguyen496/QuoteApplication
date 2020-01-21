@@ -1,6 +1,6 @@
 # Quote Application
 
-### Requirement: Android Studio, GitHub
+### Requirements: Android Studio, GitHub
 
 ## TO START:
 ## -Clone the application from github
